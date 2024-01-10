@@ -1,0 +1,65 @@
+
+a:link {color:blue;}
+a:visited {color: green;}
+a:hover {color:plum;}
+a:active {color: red;}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0 80px 0 80px;
+    background-color: bisque;
+}
+
+img {
+    border-radius: 50%;
+}
+
+#img-profile{
+    height: 30%;
+    width: 30%;
+    padding: 20px 0 0 20px ;
+    
+    
+}
+#img-linkedin, #img-github, #img-email {
+    width: 15.75px;
+    height: 14px;
+    box-sizing: border-box;
+    
+}
+
+
+h1, h2, h3, header {
+    text-align: center;
+    padding-top: 10px;
+}
+footer{
+    margin-top: 10px;
+    padding-top: 50px;
+ 
+}
+header {
+    
+}
+
+#copyright {
+    font-size: 12px;
+    color:slategrey;
+    margin-top: 50px;
+}
+
+h1 { 
+    color: darkslategray;
+ 
+}
+.contact {
+    padding-top: 0px;
+    text-align: center;
+}
+
+
+header, footer {
+    background-color: lightgray;
+    
+}
+
